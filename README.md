@@ -16,4 +16,5 @@ My interests include:
  - Best Buy
  - Techstyle
  - Change Healthcare
- - Magellan
+ - Magellan Health
+ - Kittrell Company
