@@ -6,9 +6,9 @@ My interests include:
 
 _cloud native devops, data engineering, javascript art_
 
-<div style="display:flex; flex-direction:row; ">
-
 <div style="display:flex; flex-direction:column; ">
+
+<div style="display:flex; flex-direction:row; ">
 
 <div>
 
@@ -35,11 +35,11 @@ _cloud native devops, data engineering, javascript art_
 </div>
 </div>
 
-<div style="display:flex; flex-direction:column; ">
+<div style="display:flex; flex-direction:row; ">
 <a target=_blank href="https://github.com/josephedward">
   <img align="center" alt="Github Stats" src="https://github-readme-stats-beige-pi.vercel.app/api?username=josephedward&show_icons=true&hide_border=true&count_private=true"/>
 </a>
 <a target=_blank href="https://github.com/josephedward">
-  <img align="center" alt="Top Languages" src="https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=josephedward&layout=compact"/>
+  <img align="center" alt="Top Languages" src="https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=josephedward&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </div>
