@@ -39,7 +39,5 @@ _cloud native devops, data engineering, javascript art_
 <a target=_blank href="https://github.com/josephedward">
   <img align="center" alt="Github Stats" src="https://github-readme-stats-beige-pi.vercel.app/api?username=josephedward&show_icons=true&hide_border=true&count_private=true"/>
 </a>
-<a target=_blank href="https://github.com/josephedward">
-  <img align="center" alt="Top Languages" src="https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=josephedward&show_icons=true&hide_border=true&layout=compact"/>
-</a>
+
 </div>
