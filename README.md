@@ -13,6 +13,7 @@ My interests include:
   - Fullstack Certified
 
 **companies:**
+ - Emerson 
  - Best Buy
  - Techstyle
  - Change Healthcare
