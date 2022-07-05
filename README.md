@@ -1,28 +1,45 @@
 ### Hello! 👋 😁
 
-I'm Joseph. 
+I'm Joseph.
 
-My interests include: 
+My interests include:
 
-*cloud native devops, data engineering, javascript art*
+_cloud native devops, data engineering, javascript art_
+
+<div style="display:flex; flex-direction:row; ">
+
+<div style="display:flex; flex-direction:column; ">
+
+<div>
 
 **credentials:**
-  - AWS Solutions Architect - Professional
-  - AWS Security Specialty
-  - Data Analytics Certified
-  - Fullstack Certified
+
+- AWS Solutions Architect - Professional
+- AWS Security Specialty
+- Data Analytics Certified
+- Fullstack Certified
+
+</div>
+
+<div>
 
 **companies:**
- - Emerson 
- - Best Buy
- - Techstyle
- - Change Healthcare
- - Magellan Health
- - Kittrell Company
 
+- Emerson
+- Best Buy
+- Techstyle
+- Change Healthcare
+- Magellan Health
+- Kittrell Company
+
+</div>
+</div>
+
+<div style="display:flex; flex-direction:column; ">
 <a target=_blank href="https://github.com/josephedward">
   <img align="center" alt="Github Stats" src="https://github-readme-stats-beige-pi.vercel.app/api?username=josephedward&show_icons=true&hide_border=true&count_private=true"/>
 </a>
 <a target=_blank href="https://github.com/josephedward">
-  <img align="center" alt="Top Languages" src="https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=josephedward&count_private=false"/>
+  <img align="center" alt="Top Languages" src="https://github-readme-stats-beige-pi.vercel.app/api/top-langs/?username=josephedward&layout=compact"/>
 </a>
+</div>
