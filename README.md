@@ -15,7 +15,8 @@ _cloud native devops, data engineering, javascript art_
 **credentials:**
 
 - AWS Solutions Architect - Professional
-- AWS Security Specialty
+- AWS Machine Learning Specialist Certification
+- AWS Security Specialist Certification
 - Data Analytics Certified
 - Fullstack Certified
 
