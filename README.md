@@ -1,10 +1,6 @@
-### Hello! 👋 😁
+### Hello! 👋 
 
-I'm Joseph.
-
-My interests include:
-
-_cloud native devops, data engineering, javascript art_
+I'm Joseph. I consult on AWS IQ with my company, Apt Native. Lately I have been working on custom retrieval with llamaindex+s3 and serverless ML with lambda+bedrock. Not an expert, but I do want to vectorize all the things 😁. Easiest way to get in touch: https://calendly.com/aptnative
 
 <div style="display:flex; flex-direction:column; ">
 
@@ -12,27 +8,37 @@ _cloud native devops, data engineering, javascript art_
 
 <div>
 
-**credentials:**
+  **Consulted For:**
+- PMA.AI 
+- RMA Executive Search
+- IIYE
+- Surgimate
+- NS804
+- Emerson Electric
+- Kabouter Fund
+- Best Buy
+- Techstyle FG
+- Pelotech
+- CHC
+- Kittrell Company
+- Magellan Health
+- Wipro
+- User 1st
+- VAAACares
 
+
+</div>
+
+<div>  
+
+  **Credentials:**
 - AWS Solutions Architect - Professional
 - AWS Machine Learning Specialist Certification
 - AWS Security Specialist Certification
 - Data Analytics Certified
 - Fullstack Certified
 
-</div>
-
-<div>
-
-**companies:**
-
-- Emerson
-- Best Buy
-- Techstyle
-- Change Healthcare
-- Magellan Health
-- Kittrell Company
-
+  
 </div>
 </div>
 
