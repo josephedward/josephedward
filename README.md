@@ -33,8 +33,11 @@ I'm Joseph. I consult on AWS IQ with my company, Apt Native. Lately I have been 
 
   **Credentials:**
 - AWS Solutions Architect - Professional
+- Well-Architected Proficient 
 - AWS Machine Learning Specialist Certification
 - AWS Security Specialist Certification
+- AWS SA-Associate
+- AWS Cloud Practitioner
 - Data Analytics Certified
 - Fullstack Certified
 
