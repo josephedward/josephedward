@@ -1,6 +1,6 @@
 ### Hello! 👋 
 
-I'm Edward. I consult on AWS IQ with my company, Apt Native. Lately I have been working on custom retrieval with llamaindex+s3 and serverless ML with lambda+bedrock. Not an expert, but I do want to vectorize all the things 😁. Easiest way to get in touch: https://calendly.com/aptnative
+I'm Edward. I consult on AWS IQ with my company, Apt Native. Lately I have been working on custom retrieval with llamaindex+s3 and serverless ML. Vectorize all the things 😁. Easiest way to get in touch: https://calendly.com/aptnative
 
 <div style="display:flex; flex-direction:column; ">
 
