@@ -9,6 +9,7 @@ I'm Edward. I consult with my company, Apt Native. I work on devops infrastructu
 <div>  
 
   **Credentials:**
+- Certified Kubernetes Application Developer
 - AWS Solutions Architect - Professional
 - Well-Architected Proficient 
 - AWS Machine Learning Specialist Certification
