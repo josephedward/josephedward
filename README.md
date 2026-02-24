@@ -1,6 +1,6 @@
 ### Hello! 👋 
 
-I'm Edward. I consult with my company, Apt Native. I work on devops infrastructure and ML. Easiest way to get in touch: [https://calendly.com/](https://calendly.com/edwardjoseph)
+I'm Edward. I am an independent consultant. I work on devops infrastructure and ML. Easiest way to get in touch: [https://calendly.com/](https://calendly.com/edwardjoseph)
 
 <div style="display:flex; flex-direction:column; ">
 
